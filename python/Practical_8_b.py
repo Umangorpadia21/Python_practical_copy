@@ -1,0 +1,22 @@
+list = [1,2,3,4,5,6,7,8,9,0]
+print(list)
+list.append(5)
+print(list)
+list.count(4)
+print(list)
+list.pop(4)
+print(list)
+list.insert(6,'Umang')
+print(list)
+list.reverse()
+print(list)
+print("/"*60)
+
+l=[4,4,1,2,3,4,5,8,7]
+print(l)
+l.sort()
+print(l)
+l.sort(reverse=True)
+print(l)
+l.sort(reverse=False)
+print(l)

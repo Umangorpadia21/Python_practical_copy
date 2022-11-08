@@ -1,0 +1,11 @@
+
+n1=int("Enter value of n1")
+n2=int("Enter value of n2")
+n3=int("Enter value of n3")
+print("n1==n2",(n1==n3))
+print("n1<n2",(n1<=n3))
+print("n1>n2",(n1>=n3))
+print("n1<=n2",(n1<=n3))
+print("n1>=n2",(n1>=n3))
+print("n1!=n2",(n1!=n3))
+    

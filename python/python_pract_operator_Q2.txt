@@ -1,0 +1,27 @@
+#def Assignmentoperators():
+x=int(input("Enter value for x"))
+x+=5
+print("x+=5",x)
+x-=5
+print("x-=5",x)
+x*=5
+print("x*=5",x)
+x/=5
+print("x/=5",x)
+x//=5
+print("x//=5",x)
+x**=5
+print("x**=5",x)
+x%=5
+print("x%=5",x)
+x&=5
+print("x&=5",x)
+x|=5
+print("x|=5",x)
+x^=5
+print("x^=5",x)
+x>>=5
+print("x>>=5",x)
+x<<=5
+print("x<<=5",x)
+#Assignmentoperator()

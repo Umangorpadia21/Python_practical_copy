@@ -1,0 +1,21 @@
+#def arithmatic operaters():
+print("~~~~~Program to demontrate arithmatic operators~~~~~~")
+name=input("enter your name")
+no1=int(input("enter no one"))
+no2=int(input("enter no two"))
+resadd=no1+no2
+print(no1,"+",no2,"=",resadd)
+ressub=no1-no2
+print(no1,"-",no2,"=",ressub)
+resmul=no1*no2
+print(no1,"*",no2,"=",resmul)
+resdiv=no1/no2
+print(no1,"/",no2,"=",resdiv)
+resfloor=no1//no2
+print(no1,"//",no2,"=",resfloor)
+resmod=no1%no2
+print(no1,"%",no2,"=",resmod)
+respow=no1**no2
+print(no1,"**",no2,"=",respow)
+
+
